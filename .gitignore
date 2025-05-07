@@ -1,0 +1,14 @@
+.idea/
+*.iml
+*.class
+/out/
+/target/
+.DS_Store
+Thumbs.db
+*.log
+*.iws
+*.ipr
+/logs/
+/.gradle/
+build/
+.env 
